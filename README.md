@@ -1,4 +1,4 @@
-### Salama tompoko ooooo !!! 👋
+### Salama e !! 👋
 [![@rohan29's Holopin board](https://holopin.me/rohan29)](https://holopin.io/@rohan29)
 
 <!--
