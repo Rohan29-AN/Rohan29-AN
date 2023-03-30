@@ -1,4 +1,4 @@
-- 👋 Hello there!
+- 👋 Salama ee, Hello !
 
 - 👨‍💻 My name is Tafita ANDONIAINA, but you can call me Rohan. I'm a junior developer with 1.5 years of experience, passionate about mobile development (iOS or Android) and desktop application creation.
 
