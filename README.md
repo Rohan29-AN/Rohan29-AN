@@ -1,8 +1,8 @@
 - 👋 Salama ee, Hello !
 
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Tafita+ANDONIAINA"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Rohan+AN"></h1>
 
-- 👨‍💻 My name is Tafita ANDONIAINA, but you can call me Rohan. I'm a junior developer with 1.5 years of experience, passionate about mobile development (iOS or Android) and desktop application creation.
+- 👨‍💻 I'm a junior developer with 1.5 years of experience, passionate about mobile development (iOS or Android) and desktop application creation.
 
 - 🌐 I'm also capable of working on web projects as a back-end developer. Although front-end developers are the artists who create the user interface, the back-end developer is the brain that ensures the proper functioning of the application (but don't tell them that! 🤫🤪)
 
