@@ -1,5 +1,7 @@
 - 👋 Salama ee, Hello !
 
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Tafita+ANDONIAINA"></h1>
+
 - 👨‍💻 My name is Tafita ANDONIAINA, but you can call me Rohan. I'm a junior developer with 1.5 years of experience, passionate about mobile development (iOS or Android) and desktop application creation.
 
 - 🌐 I'm also capable of working on web projects as a back-end developer. Although front-end developers are the artists who create the user interface, the back-end developer is the brain that ensures the proper functioning of the application (but don't tell them that! 🤫🤪)
@@ -10,6 +12,17 @@
 
 - Mankasitraka indrindra! 🙏 (Thank you very much!)
 
+- Skills :
+<p align="center">
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+   <img src="https://icons8.com/icon/17836/android-os"/>
+   <img src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin"/>
+   <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img src="https://icons8.com/icon/62452/firebase"/>
+   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</p>
 
 <!-- [![@rohan29's Holopin board](https://holopin.me/rohan29)](https://holopin.io/@rohan29)-->
 
