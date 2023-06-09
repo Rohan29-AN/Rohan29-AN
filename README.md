@@ -16,7 +16,7 @@
 <p align="center">
    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
    <img src="https://icons8.com/icon/17836/android-os"/>
-   <img src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin"/>
+   <img src="https://icons8.com/icon/pW9tHQnl55j4/kotlin-a-cross-platform%2C-statically-typed%2C-general-purpose-programming-language-with-type-inference"/>
    <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
    <img src="https://icons8.com/icon/62452/firebase"/>
