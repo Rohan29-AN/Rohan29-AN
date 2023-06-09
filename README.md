@@ -1,4 +1,4 @@
-- 👋 Salama ee, Hello !
+👋 Salama ee, Hello !
 
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Rohan+AN"></h1>
 
