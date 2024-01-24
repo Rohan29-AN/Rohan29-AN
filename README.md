@@ -6,7 +6,7 @@
 
 - 🌐 I'm also capable of working on web projects as a back-end developer. Although front-end developers are the artists who create the user interface, the back-end developer is the brain that ensures the proper functioning of the application (but don't tell them that! 🤫🤪)
 
-- 🚀 Currently, I'm working as a mobile developer at a startup. Apart from my programming passion, I love watching movies 🍿🎬 and exploring the beautiful places of MADAGASIKARA 🇲🇬🏝️🌴 during my free time or vacations.
+- 🚀 Currently, I'm working as a fullstack developer at a startup. Apart from my programming passion, I love watching movies 🍿🎬 and exploring the beautiful places of MADAGASIKARA 🇲🇬🏝️🌴 during my free time or vacations.
 
 - 📩 If you'd like to get in touch with me, you can do so via email at tafitatsanta@gmail.com or on my LinkedIn profile https://www.linkedin.com/in/tafita-andoniaina-165568208/.
 
