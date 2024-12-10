@@ -2,7 +2,7 @@
 
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Rohan+AN"></h1>
 
-- 👨‍ Salama ee, Hello !💻 I'm a junior developer with 3 years of experience, passionate about mobile development (iOS or Android) and desktop application creation.
+- 👨‍ Salama ee, Hello !💻 I'm a mid-developer with 3 years of experience, passionate about mobile development (iOS or Android).
 
 - 🌐 I'm also capable of working on web projects as a back-end developer. Although front-end developers are the artists who create the user interface, the back-end developer is the brain that ensures the proper functioning of the application (but don't tell them that! 🤫🤪)
 
@@ -30,6 +30,8 @@
    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img src="https://img.icons8.com/color/48/000000/bash.png"/>
 </p>
 
 <!-- [![@rohan29's Holopin board](https://holopin.me/rohan29)](https://holopin.io/@rohan29)-->
