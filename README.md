@@ -34,5 +34,9 @@
    <img src="https://img.icons8.com/color/48/000000/bash.png"/>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rohan29-AN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 <!-- [![@rohan29's Holopin board](https://holopin.me/rohan29)](https://holopin.io/@rohan29)-->
 
