@@ -13,7 +13,7 @@
 - Mankasitraka indrindra! 🙏 (Thank you very much!)
 
 
-**Contributions**
+# ⌨️ Contributions: 
 
 <p align="center"> 
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohan29-AN" alt="GitHub Streak Stats"/>
@@ -21,7 +21,7 @@
 </p>
 
 
-**Skills**
+# 🖥️ Technical Skills: 
 <p align="center">
    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
