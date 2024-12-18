@@ -26,13 +26,24 @@
    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+     
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img src="https://img.icons8.com/?size=48&id=9Gfx4Dfxl0JK&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=48&id=71257&format=png&color=000000"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   
    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img src="https://img.icons8.com/?size=48&id=74402&format=png&color=000000"/>
+   
+  
    <img src="https://img.icons8.com/color/48/000000/bash.png"/>
-   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+   <img src="https://img.icons8.com/color/48/000000/docker.png"/> 
+
+   <img src="https://img.icons8.com/?size=48&id=24895&format=png&color=000000"/>
+   
+
 </p>
 
 ## 🏆 GitHub Trophies
