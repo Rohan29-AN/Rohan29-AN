@@ -32,6 +32,7 @@
    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
    <img src="https://img.icons8.com/color/48/000000/bash.png"/>
+   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </p>
 
 ## 🏆 GitHub Trophies
